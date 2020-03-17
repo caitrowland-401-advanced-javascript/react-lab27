@@ -1,0 +1,35 @@
+$height: 300px;
+$width: 200px;
+
+
+.counter {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+#currentCount { 
+    color: white;
+    padding: 20px;
+    font: {
+        size: 4em;
+    }
+}
+
+#upClick{
+    color: green;
+    font: {
+        size: 4em;
+    }
+}
+
+#downClick {
+    color: red;
+    font: {
+        size: 4em;
+    }
+}
+

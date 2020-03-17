@@ -1,0 +1,9 @@
+$background: rgb(16, 223, 178);
+
+body {
+    background-color: $background;
+    display: flex;
+    flex-direction: column;
+    // align-content: center;
+}
+
