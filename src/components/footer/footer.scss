@@ -1,12 +1,11 @@
 footer {
-    // display: flex;
-    justify-content: center;
-    // align-items: center;
-    // margin: auto;
+
     bottom: 0;
     position: fixed;
     color: salmon;
     font: {
-        size: 25px;
+        size: 20px;
     }
+    text-align: center;
+    width: 100%;
 }
